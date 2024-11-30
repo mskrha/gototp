@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/mskrha/gototp)](https://goreportcard.com/report/github.com/mskrha/gototp)
+
 ## gototp
 
 ### Description
